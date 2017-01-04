@@ -30,7 +30,7 @@ from django.http import HttpResponse
 
 # Views
 def index(request):
-    return HttpResponse("Hello World")
+    return HttpResponse("Pyreport")
 
 # URLs
 urlpatterns = (
