@@ -1,6 +1,4 @@
-import os
-import sys
-
+Django Sample
 
 
 from django.conf import settings
